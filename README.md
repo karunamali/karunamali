@@ -7,6 +7,7 @@
 - 🎓 Recent achievement: Graduated with a Bachelor of Computer Applications (BCA) with an impressive CGPA of 8.75 (A+).
 - 💼 Seeking: Exciting job opportunities in the tech industry where I can apply my skills and grow professionally.
 - ⚡ Fun fact: My heart beats for traveling and adventuring – always on the lookout for the next exciting journey!
+- 🌐 Check out my portfolio: [karunaportfolio.netlify.app](https://karunaportfolio.netlify.app/)
 
 <!---
 karunamali/karunamali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
